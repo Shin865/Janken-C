@@ -1,1 +1,1 @@
-# Janken-C
+Kertas-Batu-Gunting C++
